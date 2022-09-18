@@ -8,6 +8,11 @@ This program is for educational purposes only. Only use it on your own networks 
 This project is supposed to demonstrate how on how perform wifi phishing attacks with cheap ESP8266 controllers.
 After deploying this software on a NodeMCU or a similar board it will create an Open WiFi Access Point. This access point redirects all DNS requests to its own webserver. This will cause the captive portal to "pop open" on the client. A fake login site will be shown, which captures the clients credentials.
 
+## Screenshots
+| 172.217.28.1 | 172.217.28.1/credentials | 172.217.28.1/settings |
+| - | - | - |
+| ![portal](https://github.com/Nergon/esp8266-wifi-phisher/screens/portal.jpg) | ![credentials](https://github.com/Nergon/esp8266-wifi-phisher/screens/creds.jpg) | ![credentials](https://github.com/Nergon/esp8266-wifi-phisher/screens/settings.jpg) |
+
 ## Installation (Arduino IDE)
 1. Download the source code of this project and open the esp8266phishing.ino in the Arduino IDE
 2. Go to Preferences and add this url to your Additional Board Managers: http://arduino.esp8266.com/stable/package_esp8266com_index.json
