@@ -11,7 +11,7 @@ After deploying this software on a NodeMCU or a similar board it will create an 
 ## Screenshots
 | 172.217.28.1 | 172.217.28.1/credentials | 172.217.28.1/settings |
 | - | - | - |
-| ![portal](https://github.com/Nergon/esp8266-wifi-phisher/screens/portal.jpg) | ![credentials](https://github.com/Nergon/esp8266-wifi-phisher/screens/creds.jpg) | ![credentials](https://github.com/Nergon/esp8266-wifi-phisher/screens/settings.jpg) |
+| ![portal](https://raw.githubusercontent.com/Nergon/esp8266-wifi-phisher/main/screens/portal.jpg) | ![credentials](https://raw.githubusercontent.com/Nergon/esp8266-wifi-phisher/main/screens/creds.jpg) | ![credentials](https://raw.githubusercontent.com/Nergon/esp8266-wifi-phisher/main/screens/settings.jpg) |
 
 ## Installation (Arduino IDE)
 1. Download the source code of this project and open the esp8266phishing.ino in the Arduino IDE
